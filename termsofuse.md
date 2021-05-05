@@ -67,16 +67,14 @@
     	* Contributors can submit more contents about COVID-19 by filling in the “Upload New Data” form.
 
     * What kind of contents should contributors submit?
-    	* 1)Contents regarding COVID-19 in Chinese-speaking region.
-    	* 2)Contents from Chinese sources will be priority.
-    	* 3)Contents can be government documents, social media posts, or news.
+    		* 1) Contents regarding COVID-19 in Chinese-speaking region.
+    		* 2) Contents from Chinese sources will be priority.
+    		* 3) Contents can be government documents, social media posts, or news.
 
     * Before contributors fill anything in the form, contributors should know:
-    	* 1) Submitting contents to this form doesn't mean that those contents will definitely and automatically be shown on the archive. Every piece of content submitted by contributors has to be reviewed and verified by this archive in order to decide whether it will be shown or not. Also, this archive will not inform contributors whether the content they upload is shown on the front-end of this archive or not.
-
-    	* 2) This archive reserves the right to remove contents submitted by contributors if they are proved to constitute any violation of laws according to the applicable law by the jurisdiction of the archive server or the purposes of this archive.
-
-    	* 3) If the contents submitted by contributors violates the applicable law, unless otherwise stipulated by law the responsibility lays on contributors.
+    		* 1) Submitting contents to this form doesn't mean that those contents will definitely and automatically be shown on the archive. Every piece of content submitted by contributors has to be reviewed and verified by this archive in order to decide whether it will be shown or not. Also, this archive will not inform contributors whether the content they upload is shown on the front-end of this archive or not.
+    		* 2) This archive reserves the right to remove contents submitted by contributors if they are proved to constitute any violation of laws according to the applicable law by the jurisdiction of the archive server or the purposes of this archive.
+    		* 3) If the contents submitted by contributors violates the applicable law, unless otherwise stipulated by law the responsibility lays on contributors.
 
 		* 4) If anyone considers contents uploaded by contributors might violate the applicable law or other equivalent, please notify and provide justified evidence to this archive (admin@cov19zharc.net). Before receiving a formal notice of complaint that can be investigated to a reasonable extent, this archive shall not start verifying whether the complaint is true and take down the contents without basic explanation.
 
