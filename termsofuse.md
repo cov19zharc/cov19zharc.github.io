@@ -12,33 +12,33 @@
 ### How to Understand the Information Panel of Each Content
 * After users enter a keyword into the search box, numerous online contents shall appear as search results. Each of the contents will be displayed with an information panel that provides users basic information of the content. In order to help users to understand the basic information and this archive correctly, we define each item of basic information as fellows:
 
-    * Published on 
-    The most possible date that an article, social media post, blog post, or government document was published or posted. Some of the contents has clearly provided publication dates, such as news and government documentations, and we will record that as its publication date. However, some others, especially social media posts, reposted articles, and copies of deleted articles, have lost their original publication dates. What we can do is to trace the most possible publication date of these contents. Please check the original content for the most accurate information.
+    * Published on:
+     The most possible date that an article, social media post, blog post, or government document was published or posted. Some of the contents has clearly provided publication dates, such as news and government documentations, and we will record that as its publication date. However, some others, especially social media posts, reposted articles, and copies of deleted articles, have lost their original publication dates. What we can do is to trace the most possible publication date of these contents. Please check the original content for the most accurate information.
 
-    * English Title
+    * English Title:
     In order to let global users understand the contents, titles of the archive contents will be translated into English. There might be differences of meaning between original titles and translated titles caused by translation. Please check the original titles and contents for the most accurate information.
 
-    * Original Title
+    * Original Title:
     The original title means the title of an article, social media post, blog post, or government documents published in its original language. Original titles of some social media posts or articles are not easy to be recognized since they have been copied or reposted for many times, and what we can do is to find the most possible title as we can. Please check the original URL and contents for the most accurate information.
 
-    * Source URL
+    * Source URL:
     Source URL means the URLs that can enable users to access an article, social media post, blog post, or government documentation. Some articles, social media posts, blog posts, or government documents might lose their most original URLs since it has been deleted, reposted, and copied for many times, and what we can do is to put the most authentic URL. Please check the most original version of a content for the most original URL.
 
 	Also, due to the potential control of information from the PRC government and other related authorities, some original URLs might not be available when users click them. In this case, please check whether its archive URL has been written on the information panel of each content. The archive URL might be able to allow users to get the content and the URL that had been disclosed on the webpage.
 
-	* Archive URL
+	* Archive URL:
     Archive URL refers to the URL that users are able to link to the archived web page of a content. However, it is still possible that an archived web page might have already disappeared. Also, please be noted that the content you see from an archived web page is the one that had existed when it was captured, so it might not be the most updated one.
 
-	* Media/Platform
+	* Media/Platform:
     Media/Platform means where a social media post, blog post, news, article, government document was published from or posted on. It can be a media company, a social media, a blog, or a government website. Some contents have been reposted and copied for many times, and it’s also possible that a content provides incorrect information about where it was exactly published from. In these scenarios, we might not be able to identify the media or platform that these contents were really published from. Please visit the most original webpage for the most accurate information. 
 
-	* Information Type
+	* Information Type:
     This archive has categorized all the contents into four types of information: government documents, news and articles, social media posts, and blog posts. 
 
-	* Keywords
+	* Keywords:
     In order to help users to find the contents they hope to access, this archive has extracted keywords for all the contents that this archive has collected.
 
-	* Text in English
+	* Text in English:
     Text in English will inform users of how a translation of a content is provided. In order to help global users to gain a better understanding about the contents that are mostly in Chinese, this archive might provide partial translations of contents. 
 
 	Under budget constraints, this archive will use two ways to provide translations: google translate and non-google translate. All the translations of the content collection of this archive follow the principle of fair use for the purpose of public interest and preservation to the freedom of speech and expression. Please visit the section of Preservation for the Public Interest on this website for more information.
