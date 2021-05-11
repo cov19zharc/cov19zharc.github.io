@@ -46,7 +46,7 @@
 	### How Can Users Contribute to this Archive
 	* Users can contribute to this archive by visiting the join action page. There are two actions that users can take: 1) Translate contents that are selected in this database; 2) Upload new data: submit more blog posts, news and articles, social media posts, or government documents to this archive. They are introduced as follows:
 
-	* 1.Translate Contents
+	1. Translate Contents
     	* Contributors can help to translate online contents selected in this archive into English by filling the translate content google form.
 	* Before contributors fill anything in this form, they should understand:
 	
@@ -64,11 +64,10 @@
 
 		* 7) Please don’t expose any information that will incur risk to your personal safety in this form.
 
-	* 2.Upload New Data
-    	* Contributors can submit more contents about COVID-19 by filling in the “Upload New Data” form.
-
-    * What kind of contents should contributors submit?
-    * 
+	2. Upload New Data
+    	
+	* Contributors can submit more contents about COVID-19 by filling in the “Upload New Data” form.
+	* What kind of contents should contributors submit?
     
     		* 1) Contents regarding COVID-19 in Chinese-speaking region.
     		
@@ -76,8 +75,7 @@
     		
     		* 3) Contents can be government documents, social media posts, or news.
 
-    * Before contributors fill anything in the form, contributors should know:
-    *
+        * Before contributors fill anything in the form, contributors should know:
     
     		* 1) Submitting contents to this form doesn't mean that those contents will definitely and automatically be shown on the archive. Every piece of content submitted by contributors has to be reviewed and verified by this archive in order to decide whether it will be shown or not. Also, this archive will not inform contributors whether the content they upload is shown on the front-end of this archive or not.
     		
@@ -86,7 +84,7 @@
     		* 3) If the contents submitted by contributors violates the applicable law, unless otherwise stipulated by law the responsibility lays on contributors.
     		
 		* 4) If anyone considers contents uploaded by contributors might violate the applicable law or other equivalent, please notify and provide justified evidence to this archive (admin@cov19zharc.net). Before receiving a formal notice of complaint that can be investigated to a reasonable extent, this archive shall not start verifying whether the complaint is true and take down the contents without basic explanation.
-
+		
 		* 5) After a submitted content is accepted, this archive will only show the information items that the archive requires.
 
 		* 6) Please don’t expose any information that will incur risk to your personal safety in this form.
