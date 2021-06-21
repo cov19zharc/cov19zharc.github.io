@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cov19zharc.github.io/static/css/main.78b4580e.chunk.css",
-    "main.js": "https://cov19zharc.github.io/static/js/main.719c2e2d.chunk.js",
-    "main.js.map": "https://cov19zharc.github.io/static/js/main.719c2e2d.chunk.js.map",
+    "main.js": "https://cov19zharc.github.io/static/js/main.e13ee1dd.chunk.js",
+    "main.js.map": "https://cov19zharc.github.io/static/js/main.e13ee1dd.chunk.js.map",
     "runtime-main.js": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js",
     "runtime-main.js.map": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js.map",
     "static/js/2.e5d8f91d.chunk.js": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.78b4580e.chunk.css.map": "https://cov19zharc.github.io/static/css/main.78b4580e.chunk.css.map",
     "static/js/2.e5d8f91d.chunk.js.LICENSE.txt": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js.LICENSE.txt",
     "static/media/index.css": "https://cov19zharc.github.io/static/media/Inter-Regular.9cd7588f.ttf",
+    "static/media/c.89f3359f.jpg": "https://cov19zharc.github.io/static/media/c.89f3359f.jpg",
     "static/media/line.png": "https://cov19zharc.github.io/static/media/line.131e1fa1.png",
     "static/media/magnifier.65a114df.svg": "https://cov19zharc.github.io/static/media/magnifier.65a114df.svg",
     "static/media/share.svg": "https://cov19zharc.github.io/static/media/share.956dafe7.svg"
@@ -19,6 +20,6 @@
     "static/js/runtime-main.40a0625d.js",
     "static/js/2.e5d8f91d.chunk.js",
     "static/css/main.78b4580e.chunk.css",
-    "static/js/main.719c2e2d.chunk.js"
+    "static/js/main.e13ee1dd.chunk.js"
   ]
 }
