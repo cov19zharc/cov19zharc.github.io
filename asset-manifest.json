@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cov19zharc.github.io/static/css/main.78b4580e.chunk.css",
-    "main.js": "https://cov19zharc.github.io/static/js/main.e13ee1dd.chunk.js",
-    "main.js.map": "https://cov19zharc.github.io/static/js/main.e13ee1dd.chunk.js.map",
+    "main.js": "https://cov19zharc.github.io/static/js/main.d2533c50.chunk.js",
+    "main.js.map": "https://cov19zharc.github.io/static/js/main.d2533c50.chunk.js.map",
     "runtime-main.js": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js",
     "runtime-main.js.map": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js.map",
     "static/js/2.e5d8f91d.chunk.js": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.40a0625d.js",
     "static/js/2.e5d8f91d.chunk.js",
     "static/css/main.78b4580e.chunk.css",
-    "static/js/main.e13ee1dd.chunk.js"
+    "static/js/main.d2533c50.chunk.js"
   ]
 }
