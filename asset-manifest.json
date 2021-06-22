@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://cov19zharc.github.io/static/css/main.78b4580e.chunk.css",
-    "main.js": "https://cov19zharc.github.io/static/js/main.d2533c50.chunk.js",
-    "main.js.map": "https://cov19zharc.github.io/static/js/main.d2533c50.chunk.js.map",
-    "runtime-main.js": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js",
-    "runtime-main.js.map": "https://cov19zharc.github.io/static/js/runtime-main.40a0625d.js.map",
-    "static/js/2.e5d8f91d.chunk.js": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js",
-    "static/js/2.e5d8f91d.chunk.js.map": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js.map",
-    "index.html": "https://cov19zharc.github.io/index.html",
-    "static/css/main.78b4580e.chunk.css.map": "https://cov19zharc.github.io/static/css/main.78b4580e.chunk.css.map",
-    "static/js/2.e5d8f91d.chunk.js.LICENSE.txt": "https://cov19zharc.github.io/static/js/2.e5d8f91d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "https://cov19zharc.github.io/static/media/Inter-Regular.9cd7588f.ttf",
-    "static/media/c.89f3359f.jpg": "https://cov19zharc.github.io/static/media/c.89f3359f.jpg",
-    "static/media/line.png": "https://cov19zharc.github.io/static/media/line.131e1fa1.png",
-    "static/media/magnifier.65a114df.svg": "https://cov19zharc.github.io/static/media/magnifier.65a114df.svg",
-    "static/media/share.svg": "https://cov19zharc.github.io/static/media/share.956dafe7.svg"
+    "main.css": "https://cov19zharc.net/static/css/main.d11473d8.chunk.css",
+    "main.js": "https://cov19zharc.net/static/js/main.4f9d31a2.chunk.js",
+    "main.js.map": "https://cov19zharc.net/static/js/main.4f9d31a2.chunk.js.map",
+    "runtime-main.js": "https://cov19zharc.net/static/js/runtime-main.36383347.js",
+    "runtime-main.js.map": "https://cov19zharc.net/static/js/runtime-main.36383347.js.map",
+    "static/js/2.59dd1830.chunk.js": "https://cov19zharc.net/static/js/2.59dd1830.chunk.js",
+    "static/js/2.59dd1830.chunk.js.map": "https://cov19zharc.net/static/js/2.59dd1830.chunk.js.map",
+    "index.html": "https://cov19zharc.net/index.html",
+    "static/css/main.d11473d8.chunk.css.map": "https://cov19zharc.net/static/css/main.d11473d8.chunk.css.map",
+    "static/js/2.59dd1830.chunk.js.LICENSE.txt": "https://cov19zharc.net/static/js/2.59dd1830.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://cov19zharc.net/static/media/Inter-Regular.9cd7588f.ttf",
+    "static/media/c.89f3359f.jpg": "https://cov19zharc.net/static/media/c.89f3359f.jpg",
+    "static/media/line.png": "https://cov19zharc.net/static/media/line.131e1fa1.png",
+    "static/media/magnifier.65a114df.svg": "https://cov19zharc.net/static/media/magnifier.65a114df.svg",
+    "static/media/share.svg": "https://cov19zharc.net/static/media/share.956dafe7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40a0625d.js",
-    "static/js/2.e5d8f91d.chunk.js",
-    "static/css/main.78b4580e.chunk.css",
-    "static/js/main.d2533c50.chunk.js"
+    "static/js/runtime-main.36383347.js",
+    "static/js/2.59dd1830.chunk.js",
+    "static/css/main.d11473d8.chunk.css",
+    "static/js/main.4f9d31a2.chunk.js"
   ]
 }
