@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cov19zharc.net/static/css/main.d11473d8.chunk.css",
-    "main.js": "https://cov19zharc.net/static/js/main.7b585e95.chunk.js",
-    "main.js.map": "https://cov19zharc.net/static/js/main.7b585e95.chunk.js.map",
+    "main.js": "https://cov19zharc.net/static/js/main.2a1d69ad.chunk.js",
+    "main.js.map": "https://cov19zharc.net/static/js/main.2a1d69ad.chunk.js.map",
     "runtime-main.js": "https://cov19zharc.net/static/js/runtime-main.36383347.js",
     "runtime-main.js.map": "https://cov19zharc.net/static/js/runtime-main.36383347.js.map",
     "static/js/2.eb49cc90.chunk.js": "https://cov19zharc.net/static/js/2.eb49cc90.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.36383347.js",
     "static/js/2.eb49cc90.chunk.js",
     "static/css/main.d11473d8.chunk.css",
-    "static/js/main.7b585e95.chunk.js"
+    "static/js/main.2a1d69ad.chunk.js"
   ]
 }
