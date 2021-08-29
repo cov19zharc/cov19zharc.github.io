@@ -1,4 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-
-sitemap: https://cov19zharc.net/sitemap.xml
+Disallow:

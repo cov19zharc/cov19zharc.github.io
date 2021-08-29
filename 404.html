@@ -8,8 +8,11 @@
     <script>
       var segmentCount = 0;
       var l = window.location;
-      console.log(l);
-      const newUrl =
+      const newPath = 
+      (l.search ? 
+      "/?search=" + l.search.slice(1).replace(/&/g, "~and~") : 
+      `/?article_id=${l.pathname.slice(1).split("/")[1].replace(/&/g, "~and~")}`)
+      const newUrl = 
         l.protocol +
         "//" +
         l.hostname +
@@ -18,14 +21,7 @@
           .split("/")
           .slice(0, 1 + segmentCount)
           .join("/") +
-        "/?p=/" +
-        l.pathname
-          .slice(1)
-          .split("/")
-          .slice(segmentCount)
-          .join("/")
-          .replace(/&/g, "~and~") +
-        (l.search ? "&q=" + l.search.slice(1).replace(/&/g, "~and~") : "") +
+        newPath +
         l.hash;
 
       l.replace(newUrl);
