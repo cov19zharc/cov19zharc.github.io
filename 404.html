@@ -10,7 +10,7 @@
       var l = window.location;
       const newPath = 
       (l.search ? 
-      "/?search=" + l.search.slice(1).replace(/&/g, "~and~") : 
+      "/?search=" + l.search.slice(1).replace(/&/g, "~and~").split("=")[1] : 
       `/?article_id=${l.pathname.slice(1).split("/")[1].replace(/&/g, "~and~")}`)
       const newUrl = 
         l.protocol +
